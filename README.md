@@ -1,5 +1,4 @@
 # Supermaket Checkout
-## Introduction
 Let’s implement the code for a supermarket checkout that calculates the total price of a number of items.
 
 To make things easier, our supermarket's items are named `A`, `B`, `C`, and so on.
