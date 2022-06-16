@@ -19,7 +19,7 @@ Buy `n` of them, and they’ll cost you `y` cents. For example, item `A` might c
 Our checkout accepts items in any order, so that if we scan a B, an A, and another B, we’ll recognize the two B’s and price them at 45 (for a total price so far of 95).
 
 ## Objectives
-⭐ Complete implementation to add items to the checkout and get the total price without special prices.
+⭐ Complete implementation to add items to the checkout and get the total price **without special prices**.
 
 ⭐⭐ Implement the functionality to calculate special prices.
 
